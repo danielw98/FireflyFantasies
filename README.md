@@ -6,15 +6,6 @@ A captivating puzzle game set on a hexagonal board where players aim to connect 
 
 ![Firefly Fantasies Animation](https://github.com/danielw98/FireflyFantasies/blob/main/FireflyFantasies.gif?raw=true)
 
-## Getting Started
-
-Clone the repository to get started:
-
-```bash
-git clone https://github.com/danielw98/FireflyFantasies.git
-cd FireflyFantasies
-```
-
 ## How to Play
 
 - **Make Connections**: Aim to form the largest possible groups of same-colored fireflies.
@@ -23,6 +14,15 @@ cd FireflyFantasies
 - **Bomb Firefly**: Explodes an entire row and column of the board corresponding to its position, ligthing up the tiles beneath them.
 - **Special Firefly**: Upon lighting all tiles, a unique firefly appears. Lead it to its destination efficiently for bonuses.
 - **Level Up**: Complete the objective to advance, facing greater challenges.
+
+## Getting Started
+
+Clone the repository to get started:
+
+```bash
+git clone https://github.com/danielw98/FireflyFantasies.git
+cd FireflyFantasies
+```
 
 ## Build the Game
 
