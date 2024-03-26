@@ -4,7 +4,7 @@ A captivating puzzle game set on a hexagonal board where players aim to connect 
 
 ## Demo animation
 
-![Firefly Fantasies Animation](https://i.giphy.com/gw3IWyGkC0rsazTi.webp)
+![Firefly Fantasies Animation](https://github.com/danielw98/FireflyFantasies/blob/main/FireflyFantasies.gif?raw=true)
 
 ## Getting Started
 
