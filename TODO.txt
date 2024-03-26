@@ -1,0 +1,5 @@
+- level1 colt stanga jos nu pot selecta in sus
+- font-urile nu merg desi sunt ok...
+- destructor guimanager apelat la infinit fix it
+- update imagine background
+- update README.md cu gif + bombe + wild fireflies (curcubee)
